@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Digit Recognizer</string>
+    <string name="about_app">This sample app shows how to classify MNIST digits with an image
+    classifier created with tf.Keras.</string>
+</resources>
